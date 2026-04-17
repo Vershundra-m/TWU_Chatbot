@@ -1,0 +1,7 @@
+pinecone
+google-generativeai
+beautifulsoup4
+requests
+langchain-text-splitters
+tiktoken
+python-dotenv
