@@ -1,0 +1,19 @@
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebooks 
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Docker
+*.log
